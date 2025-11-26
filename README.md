@@ -137,6 +137,7 @@ MIT License - Open source and free to use
 - GitHub: [Project Repository]
 - Discord: [Community Server]
 - Twitter: [Project Updates]
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3f8e762-4c6d-43ed-aa68-db1a3faefec5" />
 
 ---
 
